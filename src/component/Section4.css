@@ -1,0 +1,34 @@
+.section4{
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+    background-image: url("../image/bi2.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 657px;
+    padding-top: 4%;
+    justify-content: center;
+}
+
+.pos{
+    display: flex;
+    flex-direction: row;
+    padding-top: 2%;
+}
+.left4 img{
+    height: 494px;
+    width: 570px;
+}
+.right4{
+    text-align: left;
+    margin-left: 20px;
+}
+.title4{
+    font-size: 40px;
+    font-family: "Red Ring Medium", sans-serif;
+    text-align: left;
+    letter-spacing: 3px;
+    line-height:110%;
+    font-weight: bold;
+    padding-bottom: 20px;
+}

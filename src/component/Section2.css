@@ -1,0 +1,43 @@
+.second-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+}
+
+@media screen and (max-width: 768px) {
+  .second-section {
+    flex-direction: column;
+    padding: 10px;
+  }
+}
+
+.u-container{
+  padding-left: 35px;
+  padding-right: 35px;
+}
+.title h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.layout-row{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.img1{
+opacity: 0.4;
+object-fit: contain;
+width: 146px;
+height: 103px;
+}
+.img3{
+  opacity: 0.4;
+  object-fit: contain;
+  width: 146px;
+  height: 103px;
+  }

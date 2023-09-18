@@ -1,0 +1,24 @@
+.topcontact{
+        /* Font & Text */
+        object-fit:contain;
+    
+        /* Color & Background */
+        background-attachment: scroll;
+        background-image: url("https://assets.nicepagecdn.com/d2cc3eaa/495975/images/jhhjjh-min.jpg");
+        background-position: center;
+        position: relative;
+    
+        /* Box */
+        height: 430px;
+        width: 1519.2px;
+        
+    
+        /* Positioning */
+        position: relative;
+}
+
+
+
+
+
+

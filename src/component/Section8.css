@@ -1,0 +1,814 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.section8{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    /* Box */
+    height: 753px;
+    width: 1519.2px;
+    
+}
+.container8{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cercle{
+  
+  -webkit-text-size-adjust: 100%;
+font-size: 1rem;
+line-height: 1.6;
+--animation-rotate_in-rotate: -200deg;
+--animation-rotate_in_down_left-rotate: -45deg;
+--animation-rotate_in_down_right-rotate: 45deg;
+--animation-rotate_in_up_left-rotate: 45deg;
+--animation-rotate_in_up_right-rotate: -90deg;
+--animation-rotate_out-rotate: 200deg;
+--animation-rotate_out_down_left-rotate: 45deg;
+--animation-rotate_out_down_right-rotate: -45deg;
+--animation-rotate_out_up_left-rotate: -45deg;
+--animation-rotate_out_up_right-rotate: 90deg;
+--animation-roll_in-rotate: -120deg;
+--animation-roll_in-translate_x: -100%;
+--animation-roll_out-rotate: 120deg;
+--animation-roll_out-translate_x: 100%;
+--animation-zoom_in-scale: 0.3;
+--animation-zoom_in_down-scale: 0.475;
+--animation-zoom_in_down-translate_y: 60px;
+--animation-zoom_in_up-scale: 0.475;
+--animation-zoom_in_up-translate_y: -60px;
+--animation-zoom_in_left-scale: 0.475;
+--animation-zoom_in_left-translate_x: 10px;
+--animation-zoom_in_right-scale: 0.475;
+--animation-zoom_in_right-translate_x: -10px;
+--animation-zoom_out-scale: 0.3;
+--animation-zoom_out_down-scale: 0.475;
+--animation-zoom_out_down-translate_y: -60px;
+--animation-zoom_out_up-scale: 0.475;
+--animation-zoom_out_up-translate_y: 60px;
+--animation-zoom_out_left-scale: 0.475;
+--animation-zoom_out_left-translate_x: 42px;
+--animation-zoom_out_right-scale: 0.475;
+--animation-zoom_out_right-translate_x: -42px;
+--animation-slide_in_down-translate_y: -100%;
+--animation-slide_in_up-translate_y: 100%;
+--animation-slide_in_left-translate_x: -100%;
+--animation-slide_in_right-translate_x: 100%;
+--animation-slide_out_down-translate_y: 100%;
+--animation-slide_out_up-translate_y: -100%;
+--animation-slide_out_left-translate_x: -100%;
+--animation-slide_out_right-translate_x: 100%;
+--animation-custom_in-translate_x-end: 0;
+--animation-custom_in-translate_y-end: 0;
+--animation-custom_in-scale-end: 1;
+font-family: 'Open Sans',sans-serif;
+--effect-scale: 1.1;
+--theme-sheet-width-xl: 1140px;
+--theme-sheet-width-lg: 940px;
+--theme-sheet-width-md: 720px;
+--theme-sheet-width-sm: 540px;
+--theme-sheet-width-xs: 340px;
+pointer-events: initial;
+text-align: center;
+box-sizing: border-box;
+position: relative;
+border-radius: 50%;
+animation-fill-mode: both;
+color: #111111;
+background-color: #fcc0b5;
+--animation-custom_in-translate_x: 50px;
+
+
+--animation-custom_in-rotate: 180deg;
+--animation-custom_in-scale: 0.3;
+
+width: 313px;
+height: 490px;
+margin-right: auto;
+will-change: transform, opacity;
+animation-duration: 1250ms;}
+
+.left8 {
+    /* Font & Text */
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 25.6px;
+    text-decoration: none solid rgb(17, 17, 17);
+    text-align: center;
+    text-indent: 0px;
+    text-transform: none;
+    vertical-align: baseline;
+    white-space: normal;
+    word-spacing: 0px;
+  
+    /* Color & Background */
+    background-attachment: scroll;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: none;
+    background-position: 0% 0%;
+    background-repeat: repeat;
+    color: rgb(17, 17, 17);
+  
+    /* Box */
+    height: 633px;
+    width: 380px;
+    border: 0px none rgb(17, 17, 17);
+    border-top: 0px none rgb(17, 17, 17);
+    border-right: 0px none rgb(17, 17, 17);
+    border-bottom: 0px none rgb(17, 17, 17);
+    border-left: 0px none rgb(17, 17, 17);
+    margin: 0px;
+    padding: 29px 0px;
+    max-height: none;
+    min-height: auto;
+    max-width: 100%;
+    min-width: auto;
+  
+    /* Positioning */
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    float: none;
+    display: flex;
+    clear: none;
+    z-index: auto;
+  
+    /* List */
+    list-style-image: none;
+    list-style-type: disc;
+    list-style-position: outside;
+  
+    /* Table */
+    border-collapse: separate;
+    border-spacing: 0px 0px;
+    caption-side: top;
+    empty-cells: show;
+    table-layout: auto;
+  
+    /* Miscellaneous */
+    overflow: visible;
+    cursor: auto;
+    visibility: visible;
+  
+    /* Effects */
+    transform: none;
+    transition: all 0s ease 0s;
+    
+    box-sizing: border-box;
+    resize: none;
+    text-shadow: none;
+    text-overflow: clip;
+    word-wrap: normal;
+    box-shadow: none;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+  
+}
+.right8{
+    /* Font & Text */
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 25.6px;
+    text-decoration: none solid rgb(17, 17, 17);
+    text-align: left;
+    text-indent: 0px;
+    text-transform: none;
+    vertical-align: baseline;
+    white-space: normal;
+    word-spacing: 0px;
+  
+    /* Color & Background */
+    background-attachment: scroll;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: none;
+    background-position: 0% 0%;
+    background-repeat: repeat;
+    color: rgb(17, 17, 17);
+  
+    /* Box */
+    height: 633px;
+    width: 760px;
+    border: 0px none rgb(17, 17, 17);
+    border-top: 0px none rgb(17, 17, 17);
+    border-right: 0px none rgb(17, 17, 17);
+    border-bottom: 0px none rgb(17, 17, 17);
+    border-left: 0px none rgb(17, 17, 17);
+    margin: 0px;
+    padding: 30px 60px;
+    max-height: none;
+    min-height: auto;
+    max-width: 100%;
+    min-width: auto;
+  
+    /* Positioning */
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    float: none;
+    display: flex;
+    clear: none;
+    z-index: auto;
+  
+    /* List */
+    list-style-image: none;
+    list-style-type: disc;
+    list-style-position: outside;
+  
+    /* Table */
+    border-collapse: separate;
+    border-spacing: 0px 0px;
+    caption-side: top;
+    empty-cells: show;
+    table-layout: auto;
+  
+    /* Miscellaneous */
+    overflow: visible;
+    cursor: auto;
+    visibility: visible;
+  
+    /* Effects */
+    transform: none;
+    transition: all 0s ease 0s;
+  
+    box-sizing: border-box;
+    resize: none;
+    text-shadow: none;
+    text-overflow: clip;
+    word-wrap: normal;
+    box-shadow: none;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+  
+}
+  
+  .phone8 {
+    position: absolute;
+    z-index: 1;
+    top: 65px;
+    left: 50px;    
+    width: 280px;
+    height: 500px;
+    
+  }
+  .cercle{
+    height: 327px;
+    width: 327px;
+    margin-left: 25px;
+    margin-top: 130px;
+  }
+.container8 h5{
+    /* Font & Text */
+    font-family: Montserrat, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 300;
+    letter-spacing: 2px;
+    line-height: 24px;
+    text-decoration: none solid rgb(17, 17, 17);
+    text-align: left;
+    text-indent: 0px;
+    text-transform: uppercase;
+    vertical-align: baseline;
+    white-space: normal;
+    word-spacing: 0px;
+  
+    /* Color & Background */
+    background-attachment: scroll;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: none;
+    background-position: 0% 0%;
+    background-repeat: repeat;
+    color: rgb(17, 17, 17);
+  
+    /* Box */
+    height: 24px;
+    width: 131.925px;
+    border: 0px none rgb(17, 17, 17);
+    border-top: 0px none rgb(17, 17, 17);
+    border-right: 0px none rgb(17, 17, 17);
+    border-bottom: 0px none rgb(17, 17, 17);
+    border-left: 0px none rgb(17, 17, 17);
+    margin: 0px 518.075px 0px 0px;
+    padding: 0px;
+    max-height: none;
+    min-height: auto;
+    max-width: none;
+    min-width: auto;
+  
+    /* Positioning */
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    float: none;
+    display: table;
+    clear: none;
+    z-index: auto;
+  
+    /* List */
+    list-style-image: none;
+    list-style-type: disc;
+    list-style-position: outside;
+  
+    /* Table */
+    border-collapse: separate;
+    border-spacing: 0px 0px;
+    caption-side: top;
+    empty-cells: show;
+    table-layout: auto;
+  
+    /* Miscellaneous */
+    overflow: visible;
+    cursor: auto;
+    visibility: visible;
+  
+    /* Effects */
+    transform: none;
+    transition: all 0s ease 0s;
+    box-sizing: border-box;
+    resize: none;
+    text-shadow: none;
+    text-overflow: clip;
+    word-wrap: break-word;
+    box-shadow: none;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+  
+}
+.container8 h1{
+    /* Font & Text */
+    font-family: Montserrat, sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: normal;
+    line-height: 52.8px;
+    text-decoration: none solid rgb(17, 17, 17);
+    text-align: left;
+    text-indent: 0px;
+    text-transform: none;
+    vertical-align: baseline;
+    white-space: normal;
+    word-spacing: 0px;
+  
+    /* Color & Background */
+    background-attachment: scroll;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: none;
+    background-position: 0% 0%;
+    background-repeat: repeat;
+    color: rgb(17, 17, 17);
+  
+    /* Box */
+    height: 105.6px;
+    width: 639px;
+    border: 0px none rgb(17, 17, 17);
+    border-top: 0px none rgb(17, 17, 17);
+    border-right: 0px none rgb(17, 17, 17);
+    border-bottom: 0px none rgb(17, 17, 17);
+    border-left: 0px none rgb(17, 17, 17);
+    margin: 20px 1px 0px 0px;
+    padding: 0px;
+    max-height: none;
+    min-height: auto;
+    max-width: none;
+    min-width: auto;
+  
+    /* Positioning */
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    float: none;
+    display: block;
+    clear: none;
+    z-index: auto;
+  
+    /* List */
+    list-style-image: none;
+    list-style-type: disc;
+    list-style-position: outside;
+  
+    /* Table */
+    border-collapse: separate;
+    border-spacing: 0px 0px;
+    caption-side: top;
+    empty-cells: show;
+    table-layout: auto;
+  
+    /* Miscellaneous */
+    overflow: visible;
+    cursor: auto;
+    visibility: visible;
+  
+    /* Effects */
+    transform: none;
+    transition: all 0s ease 0s;
+    box-sizing: border-box;
+    resize: none;
+    text-shadow: none;
+    text-overflow: clip;
+    word-wrap: break-word;
+    box-shadow: none;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+  
+}
+
+.container8 p{
+	/* Font & Text */
+	font-family: "PT Sans", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	letter-spacing: normal;
+	line-height: 25.6px;
+	text-decoration: none solid rgb(17, 17, 17);
+	text-align: left;
+	text-indent: 0px;
+	text-transform: none;
+	vertical-align: baseline;
+	white-space: normal;
+	word-spacing: 0px;
+
+	/* Color & Background */
+	background-attachment: scroll;
+	background-color: rgba(0, 0, 0, 0);
+	background-image: none;
+	background-position: 0% 0%;
+	background-repeat: repeat;
+	color: rgb(17, 17, 17);
+
+	/* Box */
+	height: 76.8px;
+	width: 640px;
+	border: 0px none rgb(17, 17, 17);
+	border-top: 0px none rgb(17, 17, 17);
+	border-right: 0px none rgb(17, 17, 17);
+	border-bottom: 0px none rgb(17, 17, 17);
+	border-left: 0px none rgb(17, 17, 17);
+	margin: 20px 0px 0px;
+	padding: 0px;
+	max-height: none;
+	min-height: auto;
+	max-width: none;
+	min-width: auto;
+
+	/* Positioning */
+	position: relative;
+	top: 0px;
+	bottom: 0px;
+	right: 0px;
+	left: 0px;
+	float: none;
+	display: block;
+	clear: none;
+	z-index: auto;
+
+	/* List */
+	list-style-image: none;
+	list-style-type: disc;
+	list-style-position: outside;
+
+	/* Table */
+	border-collapse: separate;
+	border-spacing: 0px 0px;
+	caption-side: top;
+	empty-cells: show;
+	table-layout: auto;
+
+	/* Miscellaneous */
+	overflow: visible;
+	cursor: auto;
+	visibility: visible;
+
+	/* Effects */
+	transform: none;
+	transition: all 0s ease 0s;
+	box-sizing: border-box;
+	resize: none;
+	text-shadow: none;
+	text-overflow: clip;
+	word-wrap: break-word;
+	box-shadow: none;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+}
+	
+
+.container8 lu{
+    /* Font & Text */
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 300;
+    letter-spacing: normal;
+    line-height: 32px;
+    text-decoration: none solid rgb(17, 17, 17);
+    text-align: left;
+    text-indent: 0px;
+    text-transform: none;
+    vertical-align: baseline;
+    white-space: normal;
+    word-spacing: 0px;
+  
+    /* Color & Background */
+    background-attachment: scroll;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: none;
+    background-position: 0% 0%;
+    background-repeat: repeat;
+    color: rgb(17, 17, 17);
+  
+    /* Box */
+    height: 64px;
+    width: 286.938px;
+    border: 0px none rgb(17, 17, 17);
+    border-top: 0px none rgb(17, 17, 17);
+    border-right: 0px none rgb(17, 17, 17);
+    border-bottom: 0px none rgb(17, 17, 17);
+    border-left: 0px none rgb(17, 17, 17);
+    margin: 20px 353.062px 0px 0px;
+    padding: 0px;
+    max-height: none;
+    min-height: auto;
+    max-width: none;
+    min-width: auto;
+  
+    /* Positioning */
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    float: none;
+    display: table;
+    clear: none;
+    z-index: auto;
+  
+    /* List */
+    list-style-image: none;
+    list-style-type: none;
+    list-style-position: outside;
+  
+    /* Table */
+    border-collapse: separate;
+    border-spacing: 0px 0px;
+    caption-side: top;
+    empty-cells: show;
+    table-layout: auto;
+  
+    /* Miscellaneous */
+    overflow: visible;
+    cursor: auto;
+    visibility: visible;
+  
+    /* Effects */
+    transform: none;
+    transition: all 0s ease 0s;
+    box-sizing: border-box;
+    resize: none;
+    text-shadow: none;
+    text-overflow: clip;
+    word-wrap: break-word;
+    box-shadow: none;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+  
+}
+
+
+ .txt{
+	/* Font & Text */
+	font-family: "Open Sans", sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 200;
+	letter-spacing: normal;
+	line-height: 32px;
+	text-decoration: none solid rgb(17, 17, 17);
+	text-align: left;
+	text-indent: 0px;
+	text-transform: none;
+	vertical-align: baseline;
+	white-space: normal;
+	word-spacing: 0px;
+
+	/* Color & Background */
+	background-attachment: scroll;
+	background-color: rgba(0, 0, 0, 0);
+	background-image: none;
+	background-position: 0% 0%;
+	background-repeat: repeat;
+	color: rgb(17, 17, 17);
+
+	/* Box */
+	height: 32px;
+	width: 364.938px;
+	border: 0px none rgb(17, 17, 17);
+	border-top: 0px none rgb(17, 17, 17);
+	border-right: 0px none rgb(17, 17, 17);
+	border-bottom: 0px none rgb(17, 17, 17);
+	border-left: 0px none rgb(17, 17, 17);
+	margin: 0px 0px 0px 22px;
+	padding: 0px;
+	max-height: none;
+	min-height: 0px;
+	max-width: none;
+	min-width: 0px;
+
+	/* Positioning */
+	position: relative;
+	top: 0px;
+	bottom: 0px;
+	right: 0px;
+	left: 0px;
+	float: none;
+	display: list-item;
+	clear: none;
+	z-index: auto;
+
+	/* List */
+	list-style-image: none;
+	list-style-type: none;
+	list-style-position: outside;
+
+	/* Table */
+	border-collapse: separate;
+	border-spacing: 0px 0px;
+	caption-side: top;
+	empty-cells: show;
+	table-layout: auto;
+
+	/* Miscellaneous */
+	overflow: visible;
+	cursor: auto;
+	visibility: visible;
+
+	/* Effects */
+	transform: none;
+	transition: all 0s ease 0s;
+	box-sizing: border-box;
+	resize: none;
+	text-shadow: none;
+	text-overflow: clip;
+	word-wrap: break-word;
+	box-shadow: none;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+}
+
+.u-svg-content8 {
+	/* Font & Text */
+	font-family: "Open Sans", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 300;
+	letter-spacing: normal;
+	line-height: 14.4px;
+	text-decoration: none solid rgb(248, 100, 73);
+	text-align: center;
+	text-indent: 0px;
+	text-transform: none;
+	vertical-align: middle;
+	white-space: normal;
+	word-spacing: 0px;
+
+	/* Color & Background */
+	background-attachment: scroll;
+	background-color: rgba(0, 0, 0, 0);
+	background-image: none;
+	background-position: 0% 0%;
+	background-repeat: repeat;
+	color: rgb(248, 100, 73);
+
+	/* Box */
+	height: 16px;
+	width: 16px;
+	border: 0px none rgb(248, 100, 73);
+	border-top: 0px none rgb(248, 100, 73);
+	border-right: 0px none rgb(248, 100, 73);
+	border-bottom: 0px none rgb(248, 100, 73);
+	border-left: 0px none rgb(248, 100, 73);
+	margin-right: 30px;
+	padding: 0px;
+	max-height: none;
+	min-height: 0px;
+	max-width: none;
+	min-width: 0px;
+
+	/* Positioning */
+	position: relative;
+	top: 28px;
+	bottom: 0px;
+	right: 0px;
+	left: 0px;
+	float: none;
+	display: inline-block;
+	clear: none;
+	z-index: auto;
+
+	/* List */
+	list-style-image: none;
+	list-style-type: none;
+	list-style-position: outside;
+
+	/* Table */
+	border-collapse: separate;
+	border-spacing: 0px 0px;
+	caption-side: top;
+	empty-cells: show;
+	table-layout: auto;
+
+	/* Miscellaneous */
+	overflow: visible;
+	cursor: auto;
+	visibility: visible;
+
+	/* Effects */
+	transform: none;
+	transition: all 0s ease 0s;
+	box-sizing: border-box;
+	resize: none;
+	text-shadow: none;
+	text-overflow: clip;
+	word-wrap: break-word;
+	box-shadow: none;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+}
+.thm-btn8 {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: 'Poppins', sans-serif;
+  display: block;
+  margin-top: 30px;
+  border-radius: 30px;
+  padding: 12px 30px 12px;
+  transition: all 500ms ease;
+  text-decoration: none;
+}
+
+.bgclr-8 {
+  background: #ffffff;
+  font-size: 14px;
+  letter-spacing: 2px;
+
+  border: 2px solid #F86449;
+  color: black;
+  height: 32.2px;
+	width: 140.663px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Open Sans, sans-serif;
+}
+
+.thm-btn8:hover {
+  background: white;
+  color: #F86449;
+  
+}
+

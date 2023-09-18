@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+.section5{
+  height: 370px;
+  background-color:  #F86449;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.title5{
+  font-size: 48px;
+  line-height: 53px;
+  text-align: center;
+  height: 105px;
+  width: 780px;
+  position: relative;
+  color: white;
+  font-Family: Montserrat, sans-serif
+}
+.thm-btn {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: 'Poppins', sans-serif;
+  display: block;
+  border-radius: 30px;
+  padding: 12px 30px 12px;
+  transition: all 500ms ease;
+  text-decoration: none;
+}
+.button5{
+  margin-top: 2%;
+  
+}
+
+.bgclr-1 {
+  background: #F86449;
+  font-size: 14px;
+  letter-spacing: 2px;
+
+  border: 2px solid #ffffff;
+  color: #ffffff;
+  height: 29.2px;
+	width: 159.663px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Open Sans, sans-serif;
+}
+
+.thm-btn:hover {
+  background: white;
+  color: #F86449;
+  
+}
+
